@@ -63,5 +63,5 @@
 
 ## See also
 
-- My [Meta-Back-End-Developer](https://github.com/ginny100/Meta-Back-End-Developer) repository
-- My [Meta-Database-Engineer](https://github.com/ginny100/Meta-Database-Engineer) repository
+- My [React-Back-End-Developer](https://github.com/shahbazmughal/React-Front-End-Developer) repository
+- My [React-Database-Engineer](https://github.com/shahbazmughal/React-Database-Engineer) repository
